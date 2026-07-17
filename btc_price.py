@@ -1,4 +1,4 @@
-# Bitcoin Tracker Version 2
+# BTC Tracker
 import requests
 import json
 import os
